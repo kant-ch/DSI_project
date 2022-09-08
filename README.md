@@ -46,8 +46,8 @@ The 6 datasets using in this project are ACT2017, ACT2018, ACT2019, SAT2017, SAT
 6. The student that have high score trend to have high score in all subject.
 **Recommendation**
 1. Recommendations tutor school location
-    - From data exploration part1 and part2 : There are [19 states](#19-states-with-100%-ACT-participation-rate-past-3-years) and [4 states](#4-states-with-100%-SAT-participation-rate-past-3-years) that have 100% participation rate of ACT and SAT respectively.
-    - From data exploration part3 : There are [5 states](#5-State-both-participation-rate-of-ACT-and-SAT-greater-than-50%) that have both participation rate of ACT and SAT greater than 50%.
+    - From data exploration part1 and part2 : There are 19 states and 4 states that have 100% participation rate of ACT and SAT respectively.
+    - From data exploration part3 : There are 5 states that have both participation rate of ACT and SAT greater than 50%.
 2. Recommendations for the next phase
     - If possible : Collecting data in the specific state in the recommend location and analysis the data in the state for more information.
     - Analysis about the state that require ACT/SAT and find more opportunity for locate the tutor school location.
