@@ -44,6 +44,7 @@ The 6 datasets using in this project are ACT2017, ACT2018, ACT2019, SAT2017, SAT
 4. Mean of ACT and SAT doesn't change that much in year 2017 - 2019.
 5. Std ACT/SAT score of the student in state, have 100% participation rate, is lower over year.
 6. The student that have high score trend to have high score in all subject.
+
 **Recommendation**
 1. Recommendations tutor school location
     - From data exploration part1 and part2 : There are 19 states and 4 states that have 100% participation rate of ACT and SAT respectively.
