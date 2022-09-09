@@ -1,13 +1,13 @@
 <img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
 
 # Project 1: Standardized Test Analysis
----
+
 ## Problem Statement
----
+
 One of tutor school is planning to open new school after the covid-19 pandemic. Tutor school hires data scientist for analyze the ACT/SAT data. Since this is the first phase of the project, tutor school require data about SAT/ACT as much as possible. The purpose of the analysis is acquiring the information about SAT/ACT in 2017 - 2019 and student.
 
 ## Data Dictionary
----
+
 The 6 datasets using in this project are ACT2017, ACT2018, ACT2019, SAT2017, SAT2018 and SAT2019. All of the features in the dataset display in table below.
 
 |Feature|Type|Dataset|Description|
@@ -23,7 +23,7 @@ The 6 datasets using in this project are ACT2017, ACT2018, ACT2019, SAT2017, SAT
 |total|int|ACT2017/SAT2017/SAT2018/SAT2019|Average total SAT score for each state.|
 
 ## Brief summary of analysis
----
+
 **The analysis in this project contain 4 section**
 1. High participation rate of ACT and SAT in US
 2. Compare score between high participation rate and the other state
@@ -36,7 +36,7 @@ The 6 datasets using in this project are ACT2017, ACT2018, ACT2019, SAT2017, SAT
 - Part 4 : Analysis the correlation between each subject in ACT and SAT.
 
 ## Conclusions and Recommendations
----
+
 **Conclusion**
 1. The state, that have high participation rate either SAT or ACT, trend to have low participation rate for the other test. 
 2. For ACT/SAT 2017 - 2019, The state with 100% participation trend to have lower score than other state with lower participation rate.
